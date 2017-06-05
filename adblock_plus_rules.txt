@@ -1,3 +1,10 @@
+[Adblock Plus 2.1]
+! Checksum: 
+! Version: 201706051356
+! Title: jikker's adblock plus rules
+! Homepage: https://jikker.github.io/jikker-s-adblock-plus/
+! License: WTFPL – Do What the Fuck You Want to Public License
+!-----------------------General advert blocking filters-----------------------!
 ck101.com##.gamePopBg
 ck101.com##.gamePopWp
 health.udn.com###threemin
