@@ -79,3 +79,4 @@ reader.roodo.com##.light_box_wrap
 *.imgbus.com/
 ||imgroom.net/*
 ||funkyimg.com/*
+@@||openload.co/assets/js/script.$domain=openload.co
