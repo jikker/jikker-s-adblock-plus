@@ -5,6 +5,7 @@
 ! Homepage: https://jikker.github.io/jikker-s-adblock-plus/
 ! License: WTFPL – Do What the Fuck You Want to Public License
 !-----------------------General advert blocking filters-----------------------!
+kiss.com.tw###ad
 ck101.com##.gamePopBg
 ck101.com##.gamePopWp
 health.udn.com###threemin
@@ -27,7 +28,6 @@ buzzhand.com##.mash-lightbox.small-white-dialog.shown.mash-lightbox-fixed
 ettoday.net###info_box
 towngag.com##.welcomebox
 video.mango01.com##.welcomebox
-kiss.com.tw###ad
 moviesunusa.com###ads_slide
 moviesunusa.com###video_bottom
 moviesunusa.com##.ads_slide
@@ -73,10 +73,16 @@ bomb01.com##.modal-dialog.vertical-align-center
 bomb01.com##.modal-backdrop.in
 reader.roodo.com###idleAd
 reader.roodo.com##.light_box_wrap
+@@||openload.co/assets/js/script.$domain=openload.co
 *.tinypic.com/*
 *.sinaimg.cn/large/*
 *.sinaimg.cn/*
 *.imgbus.com/
 ||imgroom.net/*
 ||funkyimg.com/*
-@@||openload.co/assets/js/script.$domain=openload.co
+||nz04com.com/aabdd/close.gif
+blog.7-11.co##.ui-widget-overlay.ui-front
+blog.7-11.co##.ui-dialog
+a7s7.com##.adclose
+a7s7.com###BD3
+a7s7.com##.bAd
