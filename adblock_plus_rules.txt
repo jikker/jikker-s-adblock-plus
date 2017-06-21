@@ -69,6 +69,8 @@ push01.com##.modal-backdrop.fade.in
 push01.com##.modal.fade.in
 reader.roodo.com###idleAd
 reader.roodo.com##.light_box_wrap
+storm.mg##.vex-dialog-form
+storm.mg##.vex-overlay
 teepr.com###popmake-145753
 teepr.com###popmake-overlay
 teepr.com##.popmake.size-custom.active.fixed.custom-position
