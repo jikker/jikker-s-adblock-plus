@@ -88,3 +88,13 @@ whichav.com##.ads.ads-728x90
 ||funkyimg.com/*
 ||imgroom.net/*
 ||nz04com.com/aabdd/close.gif
+mango02.com###ad-popup-dialog-overlay
+mango02.com##.adbox-bg
+mango02.com##.ad-container
+mango02.com##.fa.fa-times-circle
+mango02.com##.btn-close
+clickme.net###Shadow
+clickme.net##.Shadow
+coco01.net##.promote-cover
+coco01.net##.promote-content
+||mango02.com/hotsearch_box.php
