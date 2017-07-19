@@ -98,3 +98,7 @@ clickme.net##.Shadow
 coco01.net##.promote-cover
 coco01.net##.promote-content
 ||mango02.com/hotsearch_box.php
+doujin.pomfpomf.moe###sda1
+doujin.pomfpomf.moe##.col-lg-4.col-sm-6.col-xs-12
+appledaily.com.tw##.fancybox-overlay.fancybox-overlay-fixed
+
