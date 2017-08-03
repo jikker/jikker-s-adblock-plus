@@ -101,4 +101,5 @@ coco01.net##.promote-content
 doujin.pomfpomf.moe###sda1
 doujin.pomfpomf.moe##.col-lg-4.col-sm-6.col-xs-12
 appledaily.com.tw##.fancybox-overlay.fancybox-overlay-fixed
-
+news.ltn.com.tw###idle-notice
+news.ltn.com.tw##.idle_lightbox_target
