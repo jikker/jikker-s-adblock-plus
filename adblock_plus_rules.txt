@@ -1,3 +1,4 @@
+[Adblock Plus 2.1]
 ! Checksum: 
 ! Homepage: https://jikker.github.io/jikker-s-adblock-plus/
 ! License: WTFPL – Do What the Fuck You Want to Public License
@@ -9,7 +10,6 @@
 *.sinaimg.cn/large/*
 *.tinypic.com/*
 @@||openload.co/assets/js/script.$domain=openload.co
-[Adblock Plus 2.1]
 a7s7.com###BD3
 a7s7.com##.adclose
 a7s7.com##.bAd
