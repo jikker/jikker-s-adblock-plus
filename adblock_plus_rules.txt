@@ -1,20 +1,21 @@
-[Adblock Plus 2.1]
 ! Checksum: 
-! Version: 201706051356
-! Title: jikker's adblock plus rules
 ! Homepage: https://jikker.github.io/jikker-s-adblock-plus/
 ! License: WTFPL – Do What the Fuck You Want to Public License
+! Title: jikker's adblock plus rules
+! Version: 201706051356
 !-----------------------General advert blocking filters-----------------------!
 *.imgbus.com/
 *.sinaimg.cn/*
 *.sinaimg.cn/large/*
 *.tinypic.com/*
 @@||openload.co/assets/js/script.$domain=openload.co
+[Adblock Plus 2.1]
 a7s7.com###BD3
 a7s7.com##.adclose
 a7s7.com##.bAd
 adf.ly###fade
 adf.ly##.black_overlay
+appledaily.com.tw##.fancybox-overlay.fancybox-overlay-fixed
 blog.7-11.co##.ui-dialog
 blog.7-11.co##.ui-widget-overlay.ui-front
 blog.brownsugar.tw##.content
@@ -30,19 +31,37 @@ buzzorange.com##.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front
 buzzorange.com##.ui-widget-overlay.ui-front
 ck101.com##.gamePopBg
 ck101.com##.gamePopWp
+clickme.net###Shadow
+clickme.net##.Shadow
+coco01.net##.promote-content
+coco01.net##.promote-cover
 dmm.co.jp###page
 dmm.co.jp##.d-rst
+doujin.pomfpomf.moe###sda1
+doujin.pomfpomf.moe##.col-lg-4.col-sm-6.col-xs-12
 dslrfuns.com##.fancybox-overlay.fancybox-overlay-fixed
 ettoday.net###info_box
 fhm.com.tw##.special_ad_cover.special_ad_cover2.open
+forum.babyhome.com.tw##.modal-backdrop.fade.in
+forum.babyhome.com.tw##.modal.fade.idle-modal.in
 go-vdo.hk##.adbox-bg
 health.udn.com###threemin
 ibeauty.tw##.innerBg
 ibeauty.tw##.innerSection
+jav777.cc##.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable
+jav777.cc##.ui-widget-overlay.ui-front
 kiss.com.tw###ad
 kiss.com.tw##.inner
 kiss.com.tw##.overlap
 kiwsy.com.hk##.adbox-bg
+linkedin.com###advocate-modal
+linkedin.com##.main
+linkedin.com##.show-reg.show
+mango02.com###ad-popup-dialog-overlay
+mango02.com##.ad-container
+mango02.com##.adbox-bg
+mango02.com##.btn-close
+mango02.com##.fa.fa-times-circle
 moviesunusa.com###ads_slide
 moviesunusa.com###video_bottom
 moviesunusa.com##.ads_slide
@@ -63,6 +82,8 @@ moviesunuss.org###ads_slide
 moviesunuss.org###video_bottom
 moviesunuss.org##.ads_slide
 moviesunuss.org##.video_bottom
+news.ltn.com.tw###idle-notice
+news.ltn.com.tw##.idle_lightbox_target
 plus28.com##div[style="width:960px;margin: auto;"]
 push01.com###modal-idle
 push01.com##.modal-backdrop.fade.in
@@ -75,8 +96,14 @@ teepr.com###popmake-145753
 teepr.com###popmake-overlay
 teepr.com##.popmake.size-custom.active.fixed.custom-position
 towngag.com##.welcomebox
+trump.tian.yam.com###adIdle
+trump.tian.yam.com##.modal-backdrop.fade.in
+trump.tian.yam.com##.modal.fade.in
 tw.gigacircle.com##.fancybox-overlay.fancybox-overlay-fixed
 tw.gigacircle.com##.fancybox-skin
+twgreatdaily.com###fbModel
+twgreatdaily.com##.modal-backdrop.fade.in
+twgreatdaily.com##.modal.fade.in
 udn.com###threemin
 up01.cc###popad
 up01.cc##div[style="position:fixed;width:468px;left: 50%;transform:translate(-50%,0);height:60px;background:#fff;bottom:0px;text-align:center;z-index:9"]
@@ -87,22 +114,5 @@ whichav.com##.ads.ads-300x250
 whichav.com##.ads.ads-728x90
 ||funkyimg.com/*
 ||imgroom.net/*
-||nz04com.com/aabdd/close.gif
-mango02.com###ad-popup-dialog-overlay
-mango02.com##.adbox-bg
-mango02.com##.ad-container
-mango02.com##.fa.fa-times-circle
-mango02.com##.btn-close
-clickme.net###Shadow
-clickme.net##.Shadow
-coco01.net##.promote-cover
-coco01.net##.promote-content
 ||mango02.com/hotsearch_box.php
-doujin.pomfpomf.moe###sda1
-doujin.pomfpomf.moe##.col-lg-4.col-sm-6.col-xs-12
-appledaily.com.tw##.fancybox-overlay.fancybox-overlay-fixed
-news.ltn.com.tw###idle-notice
-news.ltn.com.tw##.idle_lightbox_target
-twgreatdaily.com###fbModel
-twgreatdaily.com##.modal.fade.in
-twgreatdaily.com##.modal-backdrop.fade.in
+||nz04com.com/aabdd/close.gif
