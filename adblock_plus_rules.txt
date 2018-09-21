@@ -10,6 +10,7 @@
 *.sinaimg.cn/large/*
 *.tinypic.com/*
 @@||openload.co/assets/js/script.$domain=openload.co
+@@||159i.com/a_d/get.php$domain=159i.com
 a7s7.com###BD3
 a7s7.com##.adclose
 a7s7.com##.bAd
